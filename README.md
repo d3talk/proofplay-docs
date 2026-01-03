@@ -104,7 +104,7 @@ ProofPlay's audit infrastructure can power any scenario requiring provable fairn
 
 **Free tier:** Public endpoints (verify, game state)
 
-**Coming soon:** RapidAPI listing for full RNG-as-a-Service
+RapidAPI listing for full RNG-as-a-Service: https://rapidapi.com/watkins905/api/provably-fair-rng-the-chainlink-vrf-alternative/
 
 For enterprise licensing or custom integration, contact us.
 
