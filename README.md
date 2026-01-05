@@ -133,7 +133,3 @@ Example domains:
 ## License
 
 Documentation is MIT licensed. ProofPlay and GPM-SC services/infrastructure are proprietary.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
